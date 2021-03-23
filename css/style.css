@@ -17,3 +17,8 @@ p{font-family: verdana;
 li{font-family: verdana;
 
    font-size: 8pt; color:#000000;}
+
+
+a:hover{
+    font-weight: bold;
+}
